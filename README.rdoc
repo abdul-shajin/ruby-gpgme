@@ -119,7 +119,7 @@ creation.
 
 * Key validation
  GPGME::Key.valid?(public_key)
- # => Returns wheter this key is valid or not
+ # => Returns whether this key is valid or not
 
 
 * TODO: Key generation
